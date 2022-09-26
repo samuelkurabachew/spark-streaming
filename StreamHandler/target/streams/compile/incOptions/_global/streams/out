@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/sam/Documents/spark_streaming/StreamHandler/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler$$typecreator14$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeviceData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler$$typecreator15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeviceData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/sam/Documents/spark_streaming/StreamHandler/target/scala-2.12/classes.bak[0m
